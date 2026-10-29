@@ -45,4 +45,5 @@ dieser Basis wird in Kapitel 4 die Nutzwertanalyse für ORVÉN durchgeführt,
 einschließlich der Definition und Gewichtung der Kriterien, der Bewertung
 beider Systeme sowie einer Sensitivitätsanalyse. Die Ergebnisse werden
 anschließend in Kapitel 5 kritisch diskutiert, bevor Kapitel 6 mit einem
-Fazit und einer abschließenden Empfehlung schließt.
+Fazit, einer abschließenden Empfehlung sowie einem Ausblick auf weiterführende
+Untersuchungen schließt.

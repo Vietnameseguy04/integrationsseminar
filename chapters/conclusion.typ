@@ -9,7 +9,15 @@ unterstreicht, dass die fehlende Installationshürde bei Shopify für ein
 kleines Team ohne IT-Abteilung ein entscheidender Vorteil ist. Auch beim
 Kriterium Bestellverwaltung schneidet Shopify mit 9 zu 6 Punkten klar besser
 ab, was angesichts der täglichen Nutzung dieser Funktion im Shopbetrieb
-besonders relevant ist.
+besonders relevant ist. Darüber hinaus erzielt Shopify bei der
+Produktverwaltung mit 8 zu 6 Punkten ebenfalls einen klaren Vorsprung, was
+besonders ins Gewicht fällt, da dieses Kriterium mit 30 Prozent den größten
+Einfluss auf das Gesamtergebnis hat. Den geringsten Abstand weist das
+Kriterium Design-Anpassung auf, wo Shopify mit 7 zu 6 Punkten nur knapp
+vorne liegt. Dies deutet darauf hin, dass beide Systeme für einfache
+Designanpassungen grundsätzlich geeignet sind, Shopify jedoch durch seinen
+strukturierten Theme-Editor für ein Team ohne IT-Kenntnisse praktikabler
+bleibt.
 
 Die Analyse konzentriert sich bewusst auf die Benutzerfreundlichkeit und
 lässt damit Aspekte außer Acht, die in der Praxis ebenfalls eine Rolle
@@ -27,14 +35,15 @@ hinaus hätte eine einseitige Erprobung nur von WooCommerce die
 Vergleichbarkeit beeinträchtigt. Die Punktzahlen basieren daher auf
 recherchierten Vergleichsquellen und sind nicht das Ergebnis eines
 strukturierten Nutzertests mit realen Anwendern, sodass individuelle
-Nutzererfahrungen abweichen können. Außerdem
-handelt es sich bei ORVÉN um ein fiktives Szenario, weshalb ein reales
+Nutzererfahrungen abweichen können. Außerdem handelt es sich bei ORVÉN um ein fiktives Szenario, weshalb ein reales
 Unternehmen durch praktische Tests und spezifische Anforderungen zu anderen
 Bewertungen kommen könnte. Zudem umfassen die verwendeten Quellen auch die
 offiziellen Vergleichsseiten beider Anbieter, die naturgemäß eine gewisse
 Eigendarstellung enthalten.
 
-= Fazit
+= Fazit und Ausblick
+
+#heading(level: 2, numbering: none)[Fazit]
 
 Ziel dieser Arbeit war es, auf Basis einer Nutzwertanalyse zu ermitteln,
 welches der beiden Shopsysteme Shopify und WooCommerce für die fiktive
@@ -56,3 +65,17 @@ Unternehmen über technisches Know-how oder legt es besonderen Wert auf
 Designfreiheit und Datenkontrolle, so bietet WooCommerce entsprechende
 Vorteile. Für ORVÉN in der beschriebenen Ausgangssituation überwiegen
 jedoch die Stärken von Shopify deutlich.
+
+#heading(level: 2, numbering: none)[Ausblick]
+
+Die vorliegende Arbeit bietet mehrere Anknüpfungspunkte für weiterführende
+Untersuchungen. Zunächst könnte die Bewertung durch einen strukturierten
+Nutzertest mit realen Anwendern ergänzt werden, um die subjektiven
+Einschätzungen der Quellen durch empirische Daten zu ersetzen. Darüber
+hinaus wäre eine Ausweitung des Systemvergleichs auf weitere Plattformen
+wie Shopware sinnvoll, da dieses System im deutschsprachigen Raum weit
+verbreitet ist und insbesondere dann relevant werden könnte, wenn ORVÉN
+über die Gründungsphase hinauswächst und komplexere Anforderungen
+entwickelt. Zudem könnte eine erweiterte Analyse zusätzliche Kriterien wie
+laufende Kosten, Skalierbarkeit und DSGVO-Konformität einbeziehen, um eine
+noch umfassendere Entscheidungsgrundlage zu schaffen.

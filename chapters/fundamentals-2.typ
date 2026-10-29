@@ -40,7 +40,7 @@ erläutert.
 
 Die Nutzwertanalyse dient dazu, Entscheidungen rational zu treffen. Ein
 systematisches Bewertungsschema erlaubt den Vergleich verschiedener Optionen.
-Jede Option bekommt eine individuelle Bewertung, den Nutzwert. Dieser Wert
+Jede Option erhält eine individuelle Bewertung, den Nutzwert. Dieser Wert
 zeigt, wie gut die Option die vorher definierten Kriterien erfüllt und hilft
 so bei der Entscheidungsfindung (vgl. @zangemeister2014[S. 45]).
 
@@ -62,7 +62,7 @@ Die Nutzwertanalyse folgt einem klaren Prozess, wie Jörg Kühnapfel ihn beschre
   Gesamtgewichtung beträgt 100 Prozent, wobei jedes Kriterium einen Anteil
   entsprechend seiner Bedeutung erhält (vgl. @kühnapfel2019[S. 10 f.]).
 
-+ Zuvor wird eine Bewertungsskala festgelegt, die angibt, wie gut ein Kriterium
++ Hierfür wird eine Bewertungsskala festgelegt, die angibt, wie gut ein Kriterium
   erfüllt ist. Beispielsweise kann eine Skala von 1 bis 10 Punkten verwendet werden.
 
 + Anschließend erfolgt die eigentliche Bewertung. Für jedes Kriterium wird
