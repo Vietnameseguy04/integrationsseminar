@@ -255,9 +255,7 @@ für Kriterium~$j$ bezeichnet.
 
 Da die Bewertung subjektive Einschätzungen enthält, überprüft die
 Sensitivitätsanalyse, ob das Ergebnis auch bei veränderten Gewichtungen
-stabil bleibt (vgl. @kühnapfel2019[S. 19 f.]). In Szenario 1 werden alle
-vier Kriterien gleichgewichtet (je 25 %), um die Robustheit der Empfehlung
-zu bestätigen.
+stabil bleibt (vgl. @kühnapfel2019[S. 19 f.]).
 
 Im ersten Szenario werden alle vier Kriterien gleich gewichtet (je 25 %).
 
