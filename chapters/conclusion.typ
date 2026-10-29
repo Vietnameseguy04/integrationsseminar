@@ -1,32 +1,31 @@
 = Diskussion
 
-Die Nutzwertanalyse zeigt, dass Shopify WooCommerce in allen vier Kriterien
-übertrifft und mit einem Gesamtnutzwert von 8,30 gegenüber 5,60 einen
-deutlichen Vorsprung erzielt. Besonders ausgeprägt ist der Unterschied beim
-Kriterium Einrichtung und Inbetriebnahme, wo Shopify 9 von 10 möglichen
-Punkten erreicht, während WooCommerce lediglich 4 Punkte erzielt. Dies
-unterstreicht, dass die fehlende Installationshürde bei Shopify für ein
-kleines Team ohne IT-Abteilung ein entscheidender Vorteil ist. Auch beim
-Kriterium Bestellverwaltung schneidet Shopify mit 9 zu 6 Punkten klar besser
-ab, was angesichts der täglichen Nutzung dieser Funktion im Shopbetrieb
-besonders relevant ist. Darüber hinaus erzielt Shopify bei der
-Produktverwaltung mit 8 zu 6 Punkten ebenfalls einen klaren Vorsprung, was
-besonders ins Gewicht fällt, da dieses Kriterium mit 30 Prozent den größten
-Einfluss auf das Gesamtergebnis hat. Den geringsten Abstand weist das
-Kriterium Design-Anpassung auf, wo Shopify mit 7 zu 6 Punkten nur knapp
-vorne liegt. Dies deutet darauf hin, dass beide Systeme für einfache
-Designanpassungen grundsätzlich geeignet sind, Shopify jedoch durch seinen
-strukturierten Theme-Editor für ein Team ohne IT-Kenntnisse praktikabler
-bleibt.
+Das Ergebnis der Nutzwertanalyse ist eindeutig, lässt sich jedoch nur im
+Kontext des spezifischen ORVÉN-Profils sinnvoll interpretieren. So spiegelt
+der ausgeprägte Abstand bei K1 (9 zu 4 Punkten) wider, dass Shopify als
+SaaS-Plattform konzeptionell darauf ausgelegt ist, technische
+Einrichtungshürden vollständig zu eliminieren. Für ORVÉN, das über keine
+IT-Abteilung verfügt und den Shop eigenständig aufbauen muss, ist genau
+dieser Aspekt entscheidend. Demgegenüber zeigt der geringe Abstand bei K3
+(7 zu 6 Punkten), dass beide Systeme für einfache saisonale
+Designanpassungen grundsätzlich geeignet sind und die Lücke erst bei
+technisch anspruchsvolleren Anforderungen größer wird. Insgesamt bestätigt
+das Ergebnis, dass das verwaltete SaaS-Modell von Shopify dem Profil eines
+kleinen Teams ohne technisches Vorwissen strukturell besser entspricht als
+die eigenverantwortliche Open-Source-Lösung WooCommerce.
 
-Die Analyse konzentriert sich bewusst auf die Benutzerfreundlichkeit und
-lässt damit Aspekte außer Acht, die in der Praxis ebenfalls eine Rolle
-spielen können. So berücksichtigt die Bewertung weder die laufenden Kosten
-noch Fragen der Skalierbarkeit oder datenschutzrechtliche Anforderungen nach
-der DSGVO. Shopify erhebt monatliche Gebühren sowie Transaktionskosten,
-während WooCommerce zwar kostenfrei ist, jedoch Hosting- und Plugin-Kosten
-verursacht. Für eine vollständige Systemauswahl in der Praxis sollten diese
-Faktoren zusätzlich berücksichtigt werden.
+Bei der Einordnung der Stärken und Schwächen beider Systeme wird deutlich,
+dass WooCommerce nicht grundsätzlich das schwächere System ist, sondern
+seine Stärken in anderen Szenarien entfaltet. So sind die hohe Flexibilität,
+vollständige Datenkontrolle und das Fehlen monatlicher Grundgebühren Vorteile,
+die für Unternehmen mit technischem Know-how oder besonderen
+Anpassungsanforderungen relevant sind. Für ORVÉN in der Gründungsphase
+überwiegen diese Stärken jedoch nicht, da das fehlende technische Vorwissen
+den Aufwand für Einrichtung und Wartung erheblich erhöht. Shopifys Stärken
+liegen demgegenüber in der geführten Einrichtung, den integrierten
+Shop-Workflows und dem zentralisierten Dashboard. Als Schwäche sind hingegen
+die Abhängigkeit vom Anbieter sowie die monatlichen Abo-Kosten zu nennen,
+die bei einer realen Systemauswahl zusätzlich zu berücksichtigen wären.
 
 Als Grenzen der Untersuchung ist zunächst die Subjektivität der Bewertung zu
 nennen. Da Shopify ausschließlich im kostenpflichtigen Abonnementmodell
@@ -35,11 +34,11 @@ hinaus hätte eine einseitige Erprobung nur von WooCommerce die
 Vergleichbarkeit beeinträchtigt. Die Punktzahlen basieren daher auf
 recherchierten Vergleichsquellen und sind nicht das Ergebnis eines
 strukturierten Nutzertests mit realen Anwendern, sodass individuelle
-Nutzererfahrungen abweichen können. Außerdem handelt es sich bei ORVÉN um ein fiktives Szenario, weshalb ein reales
-Unternehmen durch praktische Tests und spezifische Anforderungen zu anderen
-Bewertungen kommen könnte. Zudem umfassen die verwendeten Quellen auch die
-offiziellen Vergleichsseiten beider Anbieter, die naturgemäß eine gewisse
-Eigendarstellung enthalten.
+Nutzererfahrungen abweichen können. Außerdem handelt es sich bei ORVÉN um
+ein fiktives Szenario, weshalb ein reales Unternehmen durch praktische Tests
+und spezifische Anforderungen zu anderen Bewertungen kommen könnte. Zudem
+umfassen die verwendeten Quellen auch die offiziellen Vergleichsseiten beider
+Anbieter, die naturgemäß eine gewisse Eigendarstellung enthalten.
 
 = Fazit und Ausblick
 
