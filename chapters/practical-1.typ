@@ -12,8 +12,8 @@ Die vier Kriterien wurden auf Basis der in Kapitel 3.1 hergeleiteten
 Betreiber-Perspektive sowie der Forschungsfrage und dem spezifischen Profil
 von ORVÉN abgeleitet. Sie bilden zentrale Dimensionen der
 Benutzerfreundlichkeit im täglichen Shopbetrieb ab.
-Dabei stehen Aufgaben im Vordergrund,
-die für ein kleines Team ohne IT-Abteilung besonders relevant sind, nämlich
+Dabei stehen Aufgaben im Vordergrund, die für ein kleines Team mit
+begrenztem technischem Fachwissen besonders relevant sind, nämlich
 die Einrichtung des Systems, die Pflege von Produkten und Varianten, die
 Anpassung des Shop-Designs sowie die tägliche Bestellverwaltung. Aspekte wie
 laufende Kosten, datenschutzrechtliche Anforderungen oder Skalierbarkeit
@@ -22,39 +22,37 @@ der Benutzerfreundlichkeit liegt.
 
 *K1 – Einrichtung und Inbetriebnahme*
 
-Wie einfach lässt sich das Shopsystem ohne technisches Vorwissen einrichten
-und in Betrieb nehmen? Da ORVÉN über keine IT-Abteilung verfügt, ist eine
-schnelle und unkomplizierte Ersteinrichtung entscheidend. Bewertet wird, ob
-das System einen geführten Einrichtungsprozess bietet, ob Hosting und
-technische Konfiguration vom Anbieter übernommen werden und ob grundlegende
-Funktionen wie Zahlungsabwicklung und Versandoptionen ohne
-Programmierkenntnisse konfigurierbar sind. Ein System, das diese Schritte
-strukturiert begleitet und technische Hürden minimiert, ermöglicht es ORVÉN,
-den Shop eigenständig und ohne externen Support in Betrieb zu nehmen.
+Wie einfach lässt sich das Shopsystem ohne spezialisiertes technisches
+Fachwissen einrichten und in Betrieb nehmen? Obwohl ORVÉN über eine Person
+mit IT-Grundkenntnissen verfügt, ist eine effiziente und unkomplizierte
+Ersteinrichtung entscheidend, da diese Ressource auch für andere Aufgaben
+benötigt wird. Bewertet wird, ob das System einen geführten
+Einrichtungsprozess bietet, ob Hosting und technische Konfiguration vom
+Anbieter übernommen werden und ob grundlegende Funktionen wie
+Zahlungsabwicklung und Versandoptionen ohne tiefergehende
+Programmierkenntnisse konfigurierbar sind.
 
 *K2 – Produktverwaltung und Variantenhandling*
 
 Wie intuitiv lassen sich Produkte mit mehreren Varianten anlegen und pflegen?
-Das Sortiment von ORVÉN umfasst Artikel mit bis zu vier Farboptionen und fünf
-Größen, was pro Artikel bis zu zwanzig Varianten ergeben kann. Bewertet wird,
-ob Varianten übersichtlich angelegt, einzeln bearbeitet und mit
-unterschiedlichen Preisen oder Lagerbeständen versehen werden können. Zudem
-ist relevant, wie einfach bestehende Produkte aktualisiert werden können,
-etwa bei Preisänderungen oder Sortimentserweiterungen. Eine intuitive
-Produktverwaltung spart dem Team von ORVÉN im laufenden Betrieb erheblich
-Zeit.
+Das Sortiment von ORVÉN umfasst rund 50 Artikel mit bis zu fünf Farboptionen
+und sechs Größen. Bewertet wird, ob Varianten übersichtlich angelegt, einzeln
+bearbeitet und mit unterschiedlichen Preisen oder Lagerbeständen versehen
+werden können. Zudem ist relevant, wie einfach bestehende Produkte
+aktualisiert werden können, etwa bei Preisänderungen oder
+Sortimentserweiterungen. Eine intuitive Produktverwaltung spart dem Team von
+ORVÉN im laufenden Betrieb erheblich Zeit.
 
 *K3 – Design-Anpassung ohne Programmierkenntnisse*
 
-Wie einfach lässt sich das Erscheinungsbild des Shops eigenständig anpassen,
-ohne Code schreiben zu müssen? Da das Team von ORVÉN saisonale Änderungen am
-Shop-Design selbst vornehmen muss, ist ein visueller Editor ohne
-Programmierkenntnisse besonders wichtig. Bewertet wird, ob das System
-vorgefertigte Themes oder Templates anbietet, ob Farben, Schriften und Layouts
-ohne technisches Wissen angepasst werden können und wie schnell Änderungen
-umgesetzt sind. Ein intuitiver Editor schafft Unabhängigkeit von externen
-Dienstleistern und ermöglicht ORVÉN flexible Reaktionen auf saisonale
-Anforderungen.
+Wie einfach lässt sich das Erscheinungsbild des Shops eigenständig anpassen?
+Da ORVÉN eine etablierte Markenidentität pflegt und saisonale Kampagnen
+eigenständig umsetzt, sind sowohl ein visueller Editor als auch ausreichende
+Gestaltungsfreiheit wichtig. Bewertet wird, ob das System vorgefertigte
+Themes oder Templates anbietet, ob Farben, Schriften und Layouts angepasst
+werden können und wie groß der Spielraum für individuelle Gestaltung ist.
+Da ORVÉN über eine Person mit IT-Grundkenntnissen verfügt, können auch
+technisch anspruchsvollere Designwerkzeuge berücksichtigt werden.
 
 *K4 – Bestellverwaltung und täglicher Betrieb*
 
@@ -64,8 +62,7 @@ Bearbeitung somit zu den wiederkehrenden Aufgaben des Teams zählt, ist eine
 klar strukturierte Oberfläche besonders wichtig. Bewertet wird, ob eingehende
 Bestellungen übersichtlich aufgelistet sind, ob der Bestellstatus einfach
 aktualisiert werden kann und ob Retouren und Rückerstattungen ohne großen
-Aufwand abgewickelt werden können. Eine intuitive Bestellverwaltung reduziert
-Fehler und entlastet das kleine Team von ORVÉN im täglichen Betrieb.
+Aufwand abgewickelt werden können.
 
 == Durchführung der Nutzwertanalyse
 
@@ -74,13 +71,15 @@ Fehler und entlastet das kleine Team von ORVÉN im täglichen Betrieb.
 Das Ziel dieser Nutzwertanalyse ist es, auf Basis der vier definierten
 Kriterien zu ermitteln, welches der beiden Shopsysteme Shopify oder WooCommerce
 für die fiktive Modemarke ORVÉN besser geeignet ist. ORVÉN ist ein unisex
-Modelabel in der Gründungsphase, das aktuell zehn Artikel anbietet und
-schrittweise wachsen möchte. Das Entscheidungsproblem besteht darin, dass
-sich beide Systeme in ihrer Funktionsweise, ihrem Kostenmodell und ihrer
-Benutzerfreundlichkeit grundlegend unterscheiden. Da ORVÉN ein kleines Team
-ohne IT-Abteilung ist, steht die Benutzerfreundlichkeit im Mittelpunkt der
-Bewertung. Die Nutzwertanalyse dient als strukturiertes Werkzeug, um diese
-Entscheidung nachvollziehbar und objektiv zu treffen.
+Modelabel in der Wachstumsphase mit einem Sortiment von rund 50 Artikeln und
+einem kleinen Team, davon einer Person mit IT-Grundkenntnissen. Das
+Entscheidungsproblem besteht darin, dass sich beide Systeme in ihrer
+Funktionsweise, ihrem Kostenmodell und ihrer Benutzerfreundlichkeit
+grundlegend unterscheiden. Da die meisten Aufgaben ohne spezialisiertes
+technisches Fachwissen erledigt werden müssen, steht die
+Benutzerfreundlichkeit im Mittelpunkt der Bewertung. Die Nutzwertanalyse
+dient als strukturiertes Werkzeug, um diese Entscheidung nachvollziehbar
+und objektiv zu treffen.
 
 *2. Festlegung der Alternativen*
 
@@ -160,16 +159,18 @@ Shopify ist als gehostete SaaS-Plattform sofort einsatzbereit und führt neue
 Nutzer durch einen strukturierten Einrichtungsprozess, ohne dass
 Hosting-Konfiguration oder technisches Vorwissen erforderlich sind
 (vgl. @wpbeginner_shopify_woocommerce). Damit eignet es sich besonders für
-Händler, die den Shop ohne Programmierer oder IT-Fachmann eigenständig aufbauen
-und verwalten wollen (vgl. @Suess2022[S. 17]). WooCommerce hingegen erfordert
-zunächst die Einrichtung eines WordPress-Hostings, die Installation des
-Plugins sowie die Konfiguration von Zahlungsanbietern und Versandoptionen,
-sodass der Aufwand für ein Team ohne IT-Kenntnisse erheblich höher ausfällt
+Teams, die den Shop ohne spezialisierten IT-Aufwand aufbauen wollen
+(vgl. @Suess2022[S. 17]). WooCommerce erfordert hingegen die Einrichtung
+eines WordPress-Hostings, die Installation des Plugins sowie die
+Konfiguration von Zahlungsanbietern und Versandoptionen. Zwar kann die
+Person mit IT-Grundkenntnissen bei ORVÉN diesen Aufwand grundsätzlich
+bewältigen, jedoch bindet die Einrichtung zeitliche Ressourcen, die
+anderweitig benötigt werden
 (vgl. @tooltester_shopify_woocommerce; @hostinger_shopify_woocommerce;
-@hostpress_shopify_woocommerce). Da Shopify die Einrichtung vollständig
-ohne technisches Vorwissen ermöglicht, wird das Kriterium sehr gut erfüllt und
-erhält 9 Punkte. WooCommerce erfüllt das Kriterium aufgrund des erheblichen
-technischen Mehraufwands lediglich ausreichend und erhält 4 Punkte.
+@hostpress_shopify_woocommerce). Da Shopify die Einrichtung effizienter
+gestaltet, wird das Kriterium gut erfüllt und erhält 8 Punkte. WooCommerce
+ist mit IT-Grundkenntnissen einrichtbar, erfordert jedoch deutlich mehr
+Aufwand, weshalb es das Kriterium befriedigend erfüllt und 6 Punkte erhält.
 
 *K2 – Produktverwaltung und Variantenhandling*
 Shopify bietet eine klar strukturierte Produktoberfläche, in der Varianten
@@ -178,43 +179,42 @@ wie Größe und Farbe übersichtlich angelegt und bearbeitet werden können
 unbegrenzte Produktvarianten ohne plattformbedingte Limits, ist jedoch in
 der Bedienung weniger intuitiv und erfordert teils zusätzliche Konfiguration
 (vgl. @woocommerce_shopify_comparison), da die Artikeladministration als
-gewöhnungsbedürftig gilt (vgl. @Suess2022[S. 16]). Obwohl beide Systeme für ORVÉN mit
-maximal 20 Varianten pro Artikel ausreichend sind, überzeugt Shopify durch
-die benutzerfreundlichere Oberfläche. Da Shopify durch die klar strukturierte
+gewöhnungsbedürftig gilt (vgl. @Suess2022[S. 16]). Bei einem Sortiment von
+rund 50 Artikeln ist eine übersichtliche Oberfläche besonders wertvoll, da
+Produktpflege täglich anfällt. Da Shopify durch die klar strukturierte
 Produktoberfläche das Kriterium gut erfüllt, erhält es 8 Punkte. WooCommerce
-erfüllt das Kriterium durch die gewöhnungsbedürftige Artikeladministration nur
-befriedigend und erhält 6 Punkte.
+bietet mehr Flexibilität, ist jedoch weniger intuitiv bedienbar, weshalb es
+das Kriterium gut erfüllt und 7 Punkte erhält.
 
 *K3 – Design-Anpassung ohne Programmierkenntnisse*
 Shopify stellt mit seinem integrierten Theme-Editor grundlegende
-Designanpassungen ohne Programmierkenntnisse bereit, wobei die Möglichkeiten
-jedoch auf den Rahmen des gewählten Themes begrenzt bleiben
-(vgl. @tooltester_shopify_woocommerce; @hostinger_shopify_woocommerce). WooCommerce nutzt hingegen das
-WordPress-Ökosystem mit einer Vielzahl an Themes und Page-Buildern, was
-potenziell mehr Designfreiheit bietet, aber gleichzeitig eine höhere
-Einarbeitungszeit erfordert (vgl. @wpbeginner_shopify_woocommerce). Da für
-ORVÉN mit überschaubaren Designanforderungen die strukturierte Lösung von
-Shopify praxisnäher ist als die technisch anspruchsvollere Flexibilität von
-WooCommerce, erfüllt Shopify das Kriterium gut und erhält 7 Punkte.
-WooCommerce erfordert auch bei der Nutzung von Page-Buildern eine höhere
-Einarbeitungszeit, was für ein kleines Team ohne IT-Kenntnisse einen Nachteil
-darstellt, weshalb es das Kriterium befriedigend erfüllt und 6 Punkte erhält.
+Designanpassungen bereit, wobei die Möglichkeiten jedoch auf den Rahmen des
+gewählten Themes begrenzt bleiben
+(vgl. @tooltester_shopify_woocommerce; @hostinger_shopify_woocommerce).
+WooCommerce nutzt hingegen das WordPress-Ökosystem mit einer Vielzahl an
+Themes und Page-Buildern, was deutlich mehr Designfreiheit bietet
+(vgl. @wpbeginner_shopify_woocommerce). Da ORVÉN eine eigene Markenidentität
+pflegt und über eine Person mit IT-Grundkenntnissen verfügt, kann diese
+Flexibilität sinnvoll genutzt werden, ohne dass externe Dienstleister
+beauftragt werden müssen. Shopify erfüllt das Kriterium befriedigend und
+erhält 6 Punkte. WooCommerce ermöglicht durch sein umfangreiches Ökosystem
+individuelle Markengestaltung und erfüllt das Kriterium gut, weshalb es
+8 Punkte erhält.
 
 *K4 – Bestellverwaltung und täglicher Betrieb*
 Das Shopify-Dashboard zentralisiert Bestellungen, Versandverfolgung und
 Retouren in einer übersichtlichen Oberfläche, die speziell auf den täglichen
 Shopbetrieb ausgerichtet ist (vgl. @wpbeginner_shopify_woocommerce). Darüber
-hinaus sind alle Grundfunktionen enthalten, die ein kleiner Onlineshop
-benötigt, darunter Rückerstattungsmöglichkeiten und automatische E-Mails bei
-Zahlungseingang oder Bestellbestätigung (vgl. @Suess2022[S. 17]).
-WooCommerce verwaltet Bestellungen hingegen über das WordPress-Backend, das
-funktional vergleichbare Möglichkeiten bietet, jedoch weniger auf
-Shop-spezifische Workflows optimiert ist
-(vgl. @tooltester_shopify_woocommerce). Da Shopify die Bestellverwaltung mit
-allen relevanten Funktionen in einer übersichtlichen Oberfläche sehr gut
-erfüllt, erhält es 9 Punkte. WooCommerce bietet funktional vergleichbare
-Möglichkeiten, ist jedoch weniger auf Shop-spezifische Workflows optimiert,
-weshalb es das Kriterium befriedigend erfüllt und 6 Punkte erhält.
+hinaus sind alle Grundfunktionen enthalten, die ein wachsender Onlineshop
+benötigt, darunter Rückerstattungsmöglichkeiten und automatische E-Mails
+(vgl. @Suess2022[S. 17]). WooCommerce verwaltet Bestellungen über das
+WordPress-Backend, das funktional vergleichbare Möglichkeiten bietet, jedoch
+weniger auf Shop-spezifische Workflows optimiert ist
+(vgl. @tooltester_shopify_woocommerce). Da Shopify die Bestellverwaltung in
+einer übersichtlichen, shopoptimierten Oberfläche sehr gut erfüllt, erhält
+es 8 Punkte. WooCommerce bietet ausreichende Funktionen, ist jedoch weniger
+auf tägliche Shop-Workflows zugeschnitten, weshalb es das Kriterium gut
+erfüllt und 7 Punkte erhält.
 
 Der gewichtete Gesamtnutzwert ergibt sich aus:
 
@@ -242,11 +242,11 @@ für Kriterium~$j$ bezeichnet.
       [*Bew.*], [*Erg.*],
       [*Bew.*], [*Erg.*],
     ),
-    [K1], [Einrichtung und Inbetriebnahme],    [20], [9], [1,80], [4], [0,80],
-    [K2], [Produktverwaltung],                 [30], [8], [2,40], [6], [1,80],
-    [K3], [Design-Anpassung],                  [20], [7], [1,40], [6], [1,20],
-    [K4], [Bestellverwaltung],                 [30], [9], [2,70], [6], [1,80],
-    table.cell(colspan: 2, align: left)[*Gesamtnutzwert*], [*100*], [], [*8,30*], [], [*5,60*],
+    [K1], [Einrichtung und Inbetriebnahme],    [20], [8], [1,60], [6], [1,20],
+    [K2], [Produktverwaltung],                 [30], [8], [2,40], [7], [2,10],
+    [K3], [Design-Anpassung],                  [20], [6], [1,20], [8], [1,60],
+    [K4], [Bestellverwaltung],                 [30], [8], [2,40], [7], [2,10],
+    table.cell(colspan: 2, align: left)[*Gesamtnutzwert*], [*100*], [], [*7,60*], [], [*7,00*],
   ),
   caption: [Nutzwertmatrix: Shopify und WooCommerce],
 )
@@ -274,17 +274,17 @@ Im ersten Szenario werden alle vier Kriterien gleich gewichtet (je 25 %).
       [*Bew.*], [*Erg.*],
       [*Bew.*], [*Erg.*],
     ),
-    [K1], [Einrichtung und Inbetriebnahme],    [25], [9], [2,25], [4], [1,00],
-    [K2], [Produktverwaltung],                 [25], [8], [2,00], [6], [1,50],
-    [K3], [Design-Anpassung],                  [25], [7], [1,75], [6], [1,50],
-    [K4], [Bestellverwaltung],                 [25], [9], [2,25], [6], [1,50],
-    table.cell(colspan: 2, align: left)[*Gesamtnutzwert*], [*100*], [], [*8,25*], [], [*5,50*],
+    [K1], [Einrichtung und Inbetriebnahme],    [25], [8], [2,00], [6], [1,50],
+    [K2], [Produktverwaltung],                 [25], [8], [2,00], [7], [1,75],
+    [K3], [Design-Anpassung],                  [25], [6], [1,50], [8], [2,00],
+    [K4], [Bestellverwaltung],                 [25], [8], [2,00], [7], [1,75],
+    table.cell(colspan: 2, align: left)[*Gesamtnutzwert*], [*100*], [], [*7,50*], [], [*7,00*],
   ),
   caption: [Sensitivitätsanalyse Szenario 1: Gleichgewichtete Kriterien (je 25 %)],
 )
 
 Auch bei einer Gleichgewichtung aller Kriterien erzielt Shopify mit einem
-Gesamtnutzwert von 8,25 einen deutlich höheren Wert als WooCommerce (5,50),
+Gesamtnutzwert von 7,50 einen höheren Wert als WooCommerce (7,00),
 sodass die Rangfolge stabil bleibt.
 
 Im zweiten Szenario werden die extremen Gewichtungen ausgeglichen. Die zwei
@@ -307,24 +307,24 @@ angehoben. Jedes Gewicht bewegt sich damit in Richtung der Gleichgewichtung.
       [*Bew.*], [*Erg.*],
       [*Bew.*], [*Erg.*],
     ),
-    [K1], [Einrichtung und Inbetriebnahme],    [23], [9], [2,07], [4], [0,92],
-    [K2], [Produktverwaltung],                 [27], [8], [2,16], [6], [1,62],
-    [K3], [Design-Anpassung],                  [23], [7], [1,61], [6], [1,38],
-    [K4], [Bestellverwaltung],                 [27], [9], [2,43], [6], [1,62],
-    table.cell(colspan: 2, align: left)[*Gesamtnutzwert*], [*100*], [], [*8,27*], [], [*5,54*],
+    [K1], [Einrichtung und Inbetriebnahme],    [23], [8], [1,84], [6], [1,38],
+    [K2], [Produktverwaltung],                 [27], [8], [2,16], [7], [1,89],
+    [K3], [Design-Anpassung],                  [23], [6], [1,38], [8], [1,84],
+    [K4], [Bestellverwaltung],                 [27], [8], [2,16], [7], [1,89],
+    table.cell(colspan: 2, align: left)[*Gesamtnutzwert*], [*100*], [], [*7,54*], [], [*7,00*],
   ),
   caption: [Sensitivitätsanalyse Szenario 2: Geglättete Gewichtungsspitzen],
 )
 
-Auch in Szenario 2 führt Shopify mit einem Gesamtnutzwert von 8,27 deutlich
-vor WooCommerce (5,54). Das Ergebnis ist in allen drei Szenarien stabil.
+Auch in Szenario 2 führt Shopify mit einem Gesamtnutzwert von 7,54 vor
+WooCommerce (7,00). Das Ergebnis ist in allen drei Szenarien stabil.
 
 *8. Dokumentation der Ergebnisse*
 
-Die Nutzwertanalyse ergibt ein eindeutiges Ergebnis. Shopify erreicht in der
-Basisgewichtung einen Gesamtnutzwert von 8,30, während WooCommerce auf 5,60
+Die Nutzwertanalyse ergibt ein klares Ergebnis. Shopify erreicht in der
+Basisgewichtung einen Gesamtnutzwert von 7,60, während WooCommerce auf 7,00
 kommt. Beide Szenarien der Sensitivitätsanalyse bestätigen diesen Befund,
 sodass das Ergebnis in allen drei Szenarien stabil bleibt. Für ORVÉN als
-kleines Modeunternehmen ohne IT-Abteilung empfiehlt sich auf Basis dieser
-Nutzwertanalyse Shopify als das benutzerfreundlichere und für den
-Betriebsalltag besser geeignete Shopsystem.
+wachsendes Modeunternehmen mit begrenztem technischen Fachwissen empfiehlt
+sich auf Basis dieser Nutzwertanalyse Shopify als das benutzerfreundlichere
+und für den Betriebsalltag besser geeignete Shopsystem.

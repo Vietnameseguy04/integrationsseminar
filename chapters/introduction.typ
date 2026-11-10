@@ -16,9 +16,9 @@ grundlegendes Merkmal moderner Shopsoftware darstellt und zum Geschäftsmodell
 der Anbieter gehört (vgl. @Suess2022[S. 12]). Viele Anbieter verfolgen zudem das Ziel, ihre Systeme ohne tiefergehende
 technische Kenntnisse bedienbar zu gestalten, sodass in der Regel kein
 Programmierer für Einrichtung und Betrieb benötigt werden soll
-(vgl. @Suess2022[S. 12]). Für kleine Teams wie ORVÉN ohne eigene IT-Abteilung
-ist dieser Aspekt besonders bedeutsam, da alle anfallenden Aufgaben eigenständig
-erledigt werden müssen.
+(vgl. @Suess2022[S. 12]). Für kleine Teams wie ORVÉN mit begrenztem technischem Fachwissen
+ist dieser Aspekt besonders bedeutsam, da alle anfallenden Aufgaben
+weitgehend eigenständig erledigt werden müssen.
 
 == Zielsetzung und Forschungsfrage
 
@@ -26,8 +26,9 @@ Ziel dieser Seminararbeit ist es, auf Basis einer Nutzwertanalyse zu
 ermitteln, welches der beiden Shopsysteme Shopify oder WooCommerce für eine
 kleine fiktive Modemarke im deutschen B2C-Markt besser geeignet ist, wenn
 Benutzerfreundlichkeit als zentrales Kriterium berücksichtigt wird. Die
-fiktive Modemarke ORVÉN, ein unisex Modelabel in der Gründungsphase mit
-einem Startsortiment von zehn Artikeln und ohne eigene IT-Abteilung, dient dabei als konkreter
+fiktive Modemarke ORVÉN, ein unisex Modelabel in der Wachstumsphase mit
+einem Sortiment von rund 50 Artikeln und einem kleinen Team, davon einer Person
+mit IT-Grundkenntnissen, dient dabei als konkreter
 Anwendungsfall, um die Bewertung praxisnah zu gestalten. Eine detaillierte Übersicht der relevanten Merkmale von ORVÉN findet sich in @orven-profil im Anhang. Im Mittelpunkt steht die folgende Forschungsfrage.
 
 _Welches Shopsystem, Shopify oder WooCommerce, eignet sich unter

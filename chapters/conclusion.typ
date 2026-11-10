@@ -1,31 +1,29 @@
 = Diskussion
 
-Das Ergebnis der Nutzwertanalyse ist eindeutig, lässt sich jedoch nur im
-Kontext des spezifischen ORVÉN-Profils sinnvoll interpretieren. So spiegelt
-der ausgeprägte Abstand bei K1 (9 zu 4 Punkten) wider, dass Shopify als
-SaaS-Plattform konzeptionell darauf ausgelegt ist, technische
-Einrichtungshürden vollständig zu eliminieren. Für ORVÉN, das über keine
-IT-Abteilung verfügt und den Shop eigenständig aufbauen muss, ist genau
-dieser Aspekt entscheidend. Demgegenüber zeigt der geringe Abstand bei K3
-(7 zu 6 Punkten), dass beide Systeme für einfache saisonale
-Designanpassungen grundsätzlich geeignet sind und die Lücke erst bei
-technisch anspruchsvolleren Anforderungen größer wird. Insgesamt bestätigt
-das Ergebnis, dass das verwaltete SaaS-Modell von Shopify dem Profil eines
-kleinen Teams ohne technisches Vorwissen strukturell besser entspricht als
-die eigenverantwortliche Open-Source-Lösung WooCommerce.
+Das Ergebnis der Nutzwertanalyse zeigt, dass Shopify mit einem
+Gesamtnutzwert von 7,60 gegenüber 7,00 für WooCommerce knapp, aber
+konsistent besser abschneidet. Im Kontext des ORVÉN-Profils lässt sich
+dieses Ergebnis differenziert einordnen. So spiegelt der Vorsprung bei K1
+(8 zu 6 Punkten) wider, dass Shopify als SaaS-Plattform die Einrichtung
+effizienter gestaltet — auch wenn die vorhandenen IT-Grundkenntnisse im Team
+eine WooCommerce-Installation grundsätzlich ermöglichen würden. Bemerkenswert
+ist, dass WooCommerce bei K3 mit 8 zu 6 Punkten klar vorne liegt, da die
+Flexibilität des WordPress-Ökosystems für die Pflege der Markenidentität von
+ORVÉN einen echten Vorteil darstellt. Dennoch überwiegen die Stärken von
+Shopify insgesamt, da K2 und K4 mit je 30 Prozent stärker gewichtet sind und
+dort Shopify jeweils besser abschneidet.
 
 Bei der Einordnung der Stärken und Schwächen beider Systeme wird deutlich,
 dass WooCommerce nicht grundsätzlich das schwächere System ist, sondern
 seine Stärken in anderen Szenarien entfaltet. So sind die hohe Flexibilität,
 vollständige Datenkontrolle und das Fehlen monatlicher Grundgebühren Vorteile,
 die für Unternehmen mit technischem Know-how oder besonderen
-Anpassungsanforderungen relevant sind. Für ORVÉN in der Gründungsphase
-überwiegen diese Stärken jedoch nicht, da das fehlende technische Vorwissen
-den Aufwand für Einrichtung und Wartung erheblich erhöht. Shopifys Stärken
-liegen demgegenüber in der geführten Einrichtung, den integrierten
-Shop-Workflows und dem zentralisierten Dashboard. Als Schwäche sind hingegen
-die Abhängigkeit vom Anbieter sowie die monatlichen Abo-Kosten zu nennen,
-die bei einer realen Systemauswahl zusätzlich zu berücksichtigen wären.
+Anpassungsanforderungen relevant sind. Für ORVÉN überwiegen diese Stärken
+jedoch nicht, da die intuitivere Bedienbarkeit von Shopify bei den täglich
+anfallenden Aufgaben der Produktpflege und Bestellverwaltung entscheidender
+ist. Shopifys Schwäche liegt demgegenüber in der Abhängigkeit vom Anbieter
+sowie den monatlichen Abo-Kosten, die bei einer realen Systemauswahl
+zusätzlich zu berücksichtigen wären.
 
 Als Grenzen der Untersuchung ist zunächst die Subjektivität der Bewertung zu
 nennen. Da Shopify ausschließlich im kostenpflichtigen Abonnementmodell
@@ -51,12 +49,12 @@ geeignet ist. Dazu wurden vier Kriterien definiert, gewichtet und anhand
 von Vergleichsquellen bewertet. Anschließend wurde die Robustheit des
 Ergebnisses durch zwei Sensitivitätsszenarien überprüft.
 
-Die Analyse zeigt eindeutig, dass Shopify für ORVÉN die bessere Wahl
-darstellt. Mit einem Gesamtnutzwert von 8,30 gegenüber 5,60 für WooCommerce
-überzeugt Shopify insbesondere durch seine sofortige Einsatzbereitschaft ohne
-technisches Vorwissen sowie durch ein übersichtliches Dashboard für den
-täglichen Betrieb. Darüber hinaus bestätigen beide Sensitivitätsszenarien
-dieses Ergebnis, sodass die Empfehlung als robust eingestuft werden kann.
+Die Analyse zeigt, dass Shopify für ORVÉN die bessere Wahl darstellt. Mit
+einem Gesamtnutzwert von 7,60 gegenüber 7,00 für WooCommerce überzeugt
+Shopify insbesondere durch seine effizientere Einrichtung sowie durch ein
+übersichtlicheres Dashboard für die täglich anfallenden Aufgaben. Darüber
+hinaus bestätigen beide Sensitivitätsszenarien dieses Ergebnis, sodass die
+Empfehlung als robust eingestuft werden kann.
 
 Dennoch sollte berücksichtigt werden, dass WooCommerce unter anderen
 Voraussetzungen durchaus eine sinnvolle Alternative sein kann. Verfügt ein

@@ -29,12 +29,12 @@ Arbeit wird Benutzerfreundlichkeit daher aus der Perspektive des Shop-Betreibers
 betrachtet, da ORVÉN das System als Arbeitssystem für den täglichen Shopbetrieb
 einsetzt.
 
-Für ORVÉN als kleines Modeunternehmen in der Gründungsphase ohne
-eigene IT-Abteilung ist die Benutzerfreundlichkeit des administrativen Bereichs
-daher besonders relevant, da sämtliche anfallenden Aufgaben eigenständig
-erledigt werden müssen. Welche Tätigkeiten dabei im Vordergrund stehen und
-wie diese als Bewertungskriterien operationalisiert werden, wird in Kapitel 4
-erläutert.
+Für ORVÉN als Modeunternehmen in der Wachstumsphase mit einem kleinen Team
+und einer Person mit IT-Grundkenntnissen ist die Benutzerfreundlichkeit des
+administrativen Bereichs besonders relevant, da die meisten anfallenden
+Aufgaben ohne spezialisiertes technisches Fachwissen erledigt werden müssen.
+Welche Tätigkeiten dabei im Vordergrund stehen und wie diese als
+Bewertungskriterien operationalisiert werden, wird in Kapitel 4 erläutert.
 
 == Grundlagen der Nutzwertanalyse
 
