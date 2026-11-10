@@ -5,7 +5,7 @@ Gesamtnutzwert von 7,60 gegenüber 7,00 für WooCommerce knapp, aber
 konsistent besser abschneidet. Im Kontext des ORVÉN-Profils lässt sich
 dieses Ergebnis differenziert einordnen. So spiegelt der Vorsprung bei K1
 (8 zu 6 Punkten) wider, dass Shopify als SaaS-Plattform die Einrichtung
-effizienter gestaltet — auch wenn die vorhandenen IT-Grundkenntnisse im Team
+effizienter gestaltet, wenngleich die vorhandenen IT-Grundkenntnisse im Team
 eine WooCommerce-Installation grundsätzlich ermöglichen würden. Bemerkenswert
 ist, dass WooCommerce bei K3 mit 8 zu 6 Punkten klar vorne liegt, da die
 Flexibilität des WordPress-Ökosystems für die Pflege der Markenidentität von
@@ -61,7 +61,7 @@ Voraussetzungen durchaus eine sinnvolle Alternative sein kann. Verfügt ein
 Unternehmen über technisches Know-how oder legt es besonderen Wert auf
 Designfreiheit und Datenkontrolle, so bietet WooCommerce entsprechende
 Vorteile. Für ORVÉN in der beschriebenen Ausgangssituation überwiegen
-jedoch die Stärken von Shopify deutlich.
+jedoch die Stärken von Shopify.
 
 #heading(level: 2, numbering: none)[Ausblick]
 

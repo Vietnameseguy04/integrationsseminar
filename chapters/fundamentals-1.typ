@@ -90,5 +90,5 @@ Die folgende Tabelle fasst die grundlegenden Unterschiede der beiden Systeme zus
     [*Technikaufwand*],  [gering],                     [mittel bis hoch],
     [*Verbreitung DE*],  [etabliert],                  [weit verbreitet],
   ),
-  caption: [Grundlegender Vergleich von Shopify und WooCommerce],
+  caption: [Grundlegender Vergleich von Shopify und WooCommerce. Eigene Darstellung.],
 )
