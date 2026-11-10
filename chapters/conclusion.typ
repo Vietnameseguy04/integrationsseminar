@@ -72,7 +72,7 @@ Einschätzungen der Quellen durch empirische Daten zu ersetzen. Darüber
 hinaus wäre eine Ausweitung des Systemvergleichs auf weitere Plattformen
 wie Shopware sinnvoll, da dieses System im deutschsprachigen Raum weit
 verbreitet ist und insbesondere dann relevant werden könnte, wenn ORVÉN
-über die Gründungsphase hinauswächst und komplexere Anforderungen
+über die Wachstumsphase hinauswächst und komplexere Anforderungen
 entwickelt. Zudem könnte eine erweiterte Analyse zusätzliche Kriterien wie
 laufende Kosten, Skalierbarkeit und DSGVO-Konformität einbeziehen, um eine
 noch umfassendere Entscheidungsgrundlage zu schaffen.
