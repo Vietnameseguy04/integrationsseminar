@@ -193,8 +193,11 @@ gewöhnungsbedürftig gilt (vgl. @Suess2022[S. 16]). Bei einem Sortiment von
 rund 50 Artikeln ist eine übersichtliche Oberfläche besonders wertvoll, da
 Produktpflege täglich anfällt. Da Shopify durch die klar strukturierte
 Produktoberfläche das Kriterium gut erfüllt, erhält es 8 Punkte. WooCommerce
-bietet mehr Flexibilität, ist jedoch weniger intuitiv bedienbar, weshalb es
-das Kriterium gut erfüllt und 7 Punkte erhält.
+bietet mehr Flexibilität, ist jedoch weniger intuitiv bedienbar, was sich
+auch in akademischen Untersuchungen widerspiegelt, die WooCommerce bei
+usabilitybezogenen Funktionen hinter Shopify einordnen
+(vgl. @abdullah2021evaluating), weshalb es das Kriterium gut erfüllt und
+7 Punkte erhält.
 
 *K3 – Design-Anpassung ohne Programmierkenntnisse*
 Shopify stellt mit seinem integrierten Theme-Editor grundlegende

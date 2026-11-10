@@ -92,3 +92,9 @@ Die folgende Tabelle fasst die grundlegenden Unterschiede der beiden Systeme zus
   ),
   caption: [Grundlegender Vergleich von Shopify und WooCommerce. Eigene Darstellung.],
 )
+
+Dieser Unterschied wird auch durch akademische Untersuchungen bestätigt.
+So zeigt ein Feature-Mapping nach dem E-Commerce Total Quality Management
+Framework, dass Shopify bei usabilitybezogenen Funktionen den zweiten Rang
+hinter Magento belegt, während WooCommerce den letzten Platz einnimmt
+(vgl. @abdullah2021evaluating).
