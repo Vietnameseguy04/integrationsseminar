@@ -35,7 +35,7 @@
   company:           "SAP SE, 88677 Markdorf",
   company-supervisor:"[Projektbetreuer]",
   supervisor:        "Professor Dr. Kirchberg",
-  submission-date:   "XX",
+  submission-date:   "29.12.2026",
 
   // Seminar paper only
   lecture:           "Integrationsseminar zu ausgewählten Themen der Wirtschaftsinformatik",
