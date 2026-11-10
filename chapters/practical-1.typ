@@ -227,7 +227,7 @@ benötigt, darunter Rückerstattungsmöglichkeiten und automatische E-Mails
 WordPress-Backend, das funktional vergleichbare Möglichkeiten bietet, jedoch
 weniger auf Shop-spezifische Workflows optimiert ist
 (vgl. @tooltester_shopify_woocommerce). Da Shopify die Bestellverwaltung in
-einer übersichtlichen, shopoptimierten Oberfläche sehr gut erfüllt, erhält
+einer übersichtlichen, shopoptimierten Oberfläche gut erfüllt, erhält
 es 8 Punkte. WooCommerce bietet ausreichende Funktionen, ist jedoch weniger
 auf tägliche Shop-Workflows zugeschnitten, weshalb es das Kriterium gut
 erfüllt und 7 Punkte erhält.
