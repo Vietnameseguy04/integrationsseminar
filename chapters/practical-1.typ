@@ -120,7 +120,7 @@ und Designanpassungen nur saisonal vorgenommen werden.
     [K4], [Bestellverwaltung und täglicher Betrieb],    [30],
     table.cell(colspan: 2)[*Gesamt*],                  [*100*],
   ),
-  caption: [Kriterien und Gewichtung der Nutzwertanalyse],
+  caption: [Kriterien und Gewichtung der Nutzwertanalyse. Eigene Darstellung.],
 )
 
 *5. Auswahl der Bewertungsskala*
@@ -142,7 +142,7 @@ erleichtert zudem die Differenzierung zwischen den beiden Systemen.
     [3–4],  [Kriterium wird ausreichend erfüllt],
     [1–2],  [Kriterium wird kaum oder nicht erfüllt],
   ),
-  caption: [Bewertungsskala der Nutzwertanalyse],
+  caption: [Bewertungsskala der Nutzwertanalyse. Eigene Darstellung.],
 )
 
 *6. Bewertung von Shopify und WooCommerce*
@@ -248,7 +248,7 @@ für Kriterium~$j$ bezeichnet.
     [K4], [Bestellverwaltung],                 [30], [8], [2,40], [7], [2,10],
     table.cell(colspan: 2, align: left)[*Gesamtnutzwert*], [*100*], [], [*7,60*], [], [*7,00*],
   ),
-  caption: [Nutzwertmatrix: Shopify und WooCommerce],
+  caption: [Nutzwertmatrix: Shopify und WooCommerce. Eigene Berechnung.],
 )
 
 *7. Durchführung der Sensitivitätsanalyse*
@@ -280,7 +280,7 @@ Im ersten Szenario werden alle vier Kriterien gleich gewichtet (je 25 %).
     [K4], [Bestellverwaltung],                 [25], [8], [2,00], [7], [1,75],
     table.cell(colspan: 2, align: left)[*Gesamtnutzwert*], [*100*], [], [*7,50*], [], [*7,00*],
   ),
-  caption: [Sensitivitätsanalyse Szenario 1: Gleichgewichtete Kriterien (je 25 %)],
+  caption: [Sensitivitätsanalyse Szenario 1: Gleichgewichtete Kriterien (je 25 %). Eigene Berechnung.],
 )
 
 Auch bei einer Gleichgewichtung aller Kriterien erzielt Shopify mit einem
@@ -313,7 +313,7 @@ angehoben. Jedes Gewicht bewegt sich damit in Richtung der Gleichgewichtung.
     [K4], [Bestellverwaltung],                 [27], [8], [2,16], [7], [1,89],
     table.cell(colspan: 2, align: left)[*Gesamtnutzwert*], [*100*], [], [*7,54*], [], [*7,00*],
   ),
-  caption: [Sensitivitätsanalyse Szenario 2: Geglättete Gewichtungsspitzen],
+  caption: [Sensitivitätsanalyse Szenario 2: Geglättete Gewichtungsspitzen. Eigene Berechnung.],
 )
 
 Auch in Szenario 2 führt Shopify mit einem Gesamtnutzwert von 7,54 vor

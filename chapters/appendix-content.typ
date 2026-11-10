@@ -17,5 +17,5 @@
     [*Wiederkehrende Aufgaben*], [Tägliche Bestellverwaltung, laufende Produktpflege, saisonale Kampagnen],
     [*Sonstige Anforderungen*],  [Eigenständige Designanpassungen zur Pflege der Markenidentität],
   ),
-  caption: [Unternehmensprofil der fiktiven Modemarke ORVÉN],
+  caption: [Unternehmensprofil der fiktiven Modemarke ORVÉN. Eigene Darstellung.],
 ) <orven-profil>
