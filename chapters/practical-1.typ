@@ -8,10 +8,12 @@ Ergebnisse.
 
 == Definition der Kriterien
 
-Die vier Kriterien wurden auf Basis der in Kapitel 3.1 hergeleiteten
-Betreiber-Perspektive sowie der Forschungsfrage und dem spezifischen Profil
-von ORVÉN abgeleitet. Sie bilden zentrale Dimensionen der
-Benutzerfreundlichkeit im täglichen Shopbetrieb ab.
+Die vier Kriterien wurden deduktiv aus den Usability-Dimensionen der
+DIN EN ISO 9241-11 sowie dem spezifischen Anforderungsprofil von ORVÉN
+abgeleitet. Die in Kapitel 3.1 eingeführten Dimensionen Effektivität und
+Effizienz bilden dabei die konzeptionelle Grundlage und ermöglichen es,
+die für ORVÉN relevanten Betreiberaufgaben in beiden Systemen hinsichtlich
+Zielerreichung und Aufwand zu bewerten (vgl. @sarodnick2015[S. 37]).
 Dabei stehen Aufgaben im Vordergrund, die für ein kleines Team mit
 begrenztem technischem Fachwissen besonders relevant sind, nämlich
 die Einrichtung des Systems, die Pflege von Produkten und Varianten, die
@@ -100,12 +102,16 @@ dem Fokus auf Benutzerfreundlichkeit ableiten.
 
 *4. Gewichtung der Kriterien*
 
-Die Gewichtung orientiert sich an der Häufigkeit und Bedeutung der jeweiligen
-Aufgabe im Betriebsalltag von ORVÉN. K2 und K4 erhalten mit je 30 Prozent das
-höchste Gewicht, da Produktpflege und Bestellverwaltung im laufenden Betrieb
-täglich anfallen und damit die zeitintensivsten Aufgaben darstellen. K1 und K3
-werden mit je 20 Prozent gewichtet, da die Ersteinrichtung einmalig erfolgt
-und Designanpassungen nur saisonal vorgenommen werden.
+Zur Bestimmung der Kriterienrelevanz wird die direkte Gewichtung
+eingesetzt, bei der insgesamt 100 Prozent auf die Kriterien verteilt
+werden (vgl. @kühnapfel2019[S. 10 f.]). Die Verteilung orientiert sich
+dabei an der Häufigkeit und Bedeutung der jeweiligen Aufgabe im
+Betriebsalltag von ORVÉN. So erhalten K2 und K4 mit je 30 Prozent das
+höchste Gewicht, da Produktpflege und Bestellverwaltung im laufenden
+Betrieb täglich anfallen und damit die zeitintensivsten Aufgaben
+darstellen. K1 und K3 werden hingegen mit je 20 Prozent gewichtet, da
+die Ersteinrichtung einmalig erfolgt und Designanpassungen nur saisonal
+vorgenommen werden.
 
 #figure(
   table(
