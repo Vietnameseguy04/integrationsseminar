@@ -42,7 +42,10 @@ Die Nutzwertanalyse dient dazu, Entscheidungen rational zu treffen. Ein
 systematisches Bewertungsschema erlaubt den Vergleich verschiedener Optionen.
 Jede Option erhält eine individuelle Bewertung, den Nutzwert. Dieser Wert
 zeigt, wie gut die Option die vorher definierten Kriterien erfüllt und hilft
-so bei der Entscheidungsfindung (vgl. @zangemeister2014[S. 45]).
+so bei der Entscheidungsfindung (vgl. @zangemeister2014[S. 45]). Diese
+Methodik findet auch in aktuellen wissenschaftlichen Untersuchungen
+Anwendung, so etwa beim systematischen Vergleich von E-Commerce-Plattformen
+wie Shopify, WooCommerce und Magento (vgl. @rakic2026multicriteria[S. 39]).
 
 Die Nutzwertanalyse folgt einem klaren Prozess, wie Jörg Kühnapfel ihn beschreibt
 (vgl. @kühnapfel2019[S. 5 ff.]):

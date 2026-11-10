@@ -211,8 +211,11 @@ pflegt und über eine Person mit IT-Grundkenntnissen verfügt, kann diese
 Flexibilität sinnvoll genutzt werden, ohne dass externe Dienstleister
 beauftragt werden müssen. Shopify erfüllt das Kriterium befriedigend und
 erhält 6 Punkte. WooCommerce ermöglicht durch sein umfangreiches Ökosystem
-individuelle Markengestaltung und erfüllt das Kriterium gut, weshalb es
-8 Punkte erhält.
+individuelle Markengestaltung. So wird auch in akademischen Vergleichsstudien
+hervorgehoben, dass WooCommerce hinsichtlich Flexibilität die stärkste
+der untersuchten Plattformen darstellt
+(vgl. @rakic2026multicriteria[S. 54]), weshalb es das Kriterium gut erfüllt
+und 8 Punkte erhält.
 
 *K4 – Bestellverwaltung und täglicher Betrieb*
 Das Shopify-Dashboard zentralisiert Bestellungen, Versandverfolgung und

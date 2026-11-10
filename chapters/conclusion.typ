@@ -36,7 +36,12 @@ Nutzererfahrungen abweichen können. Außerdem handelt es sich bei ORVÉN um
 ein fiktives Szenario, weshalb ein reales Unternehmen durch praktische Tests
 und spezifische Anforderungen zu anderen Bewertungen kommen könnte. Zudem
 umfassen die verwendeten Quellen auch die offiziellen Vergleichsseiten beider
-Anbieter, die naturgemäß eine gewisse Eigendarstellung enthalten.
+Anbieter, die naturgemäß eine gewisse Eigendarstellung enthalten. Darüber hinaus
+ordnet eine aktuelle Vergleichsstudie, die ein AHP-NWA-Hybridmodell nutzt,
+WooCommerce knapp vor Shopify ein (vgl. @rakic2026multicriteria[S. 54]). Da diese
+Studie jedoch Kriterien wie Sicherheit, Skalierbarkeit und Integrationstiefe in den
+Vordergrund stellt und nicht die betreiberspezifische Benutzerfreundlichkeit
+untersucht, ergänzt sie die vorliegende Analyse, ohne ihr Ergebnis zu widersprechen.
 
 = Fazit und Ausblick
 
