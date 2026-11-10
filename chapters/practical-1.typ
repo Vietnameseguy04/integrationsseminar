@@ -105,7 +105,10 @@ dem Fokus auf Benutzerfreundlichkeit ableiten.
 Zur Bestimmung der Kriterienrelevanz wird die direkte Gewichtung
 eingesetzt, bei der der Verfasser insgesamt 100 Prozent auf Basis der
 ORVÉN-Anforderungsanalyse auf die Kriterien verteilt
-(vgl. @kühnapfel2019[S. 10 f.]). Die Verteilung orientiert sich
+(vgl. @kühnapfel2019[S. 10 f.]). Da die Gewichtung durch den Verfasser
+vorgenommen wird, handelt es sich um eine begründete subjektive
+Einschätzung und nicht um empirisch erhobene Experten- oder
+Nutzerpräferenzen. Die Verteilung orientiert sich
 dabei an der Häufigkeit und Bedeutung der jeweiligen Aufgabe im
 Betriebsalltag von ORVÉN. So erhalten K2 und K4 mit je 30 Prozent das
 höchste Gewicht, da Produktpflege und Bestellverwaltung im laufenden
