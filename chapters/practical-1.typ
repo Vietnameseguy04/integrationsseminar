@@ -45,6 +45,7 @@ aktualisiert werden können, etwa bei Preisänderungen oder
 Sortimentserweiterungen. Eine intuitive Produktverwaltung spart dem Team von
 ORVÉN im laufenden Betrieb erheblich Zeit.
 
+#pagebreak()
 *K3 – Design-Anpassung ohne Programmierkenntnisse*
 
 Wie einfach lässt sich das Erscheinungsbild des Shops eigenständig anpassen?
